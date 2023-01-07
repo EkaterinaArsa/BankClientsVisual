@@ -127,7 +127,7 @@ Cреди ушедших клиентов большинство люди ста
 6.
 <center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%206.1.png> </center>
 <center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%206.2.png> </center>
-
+<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%206.3.png> </center>
 Среди клиентов банка женщин меньше, чем мужчин, но они чаще становятся нелояльными клиентам, в среднем на 9%. Следует отметить, что среди ушедших клиентов женщин в 1.5 раза больше чем мужчин.
 
 7.
