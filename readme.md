@@ -3,20 +3,20 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
-[2. Какой кейс решаем?](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+[2. Какой кейс решаем?](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
 
-[3. Краткая информация о данных](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+[3. Краткая информация о данных](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
-[4. Этапы работы над проектом](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+[4. Этапы работы над проектом](https://github.com/EkaterinaArsa/BankClientsVisual#%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)
 
-[5. Результат](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+[5. Результат](https://github.com/EkaterinaArsa/BankClientsVisual#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)
 
-[6. Выводы](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+[6. Выводы](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 
 ### Описание проекта
 На основе использования метода визуализации результатов анализа данных об оттоке клиентов некоторого банка нужно установить, чем ушедшие клиенты отличаются от лояльных и как между собой связаны различные признаки, определяющие клиентов. 
 
-:arrow_up:[к оглавлению](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+:arrow_up:[к оглавлению](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Какой кейс решаем?
@@ -29,7 +29,7 @@
 **Метрика качества**
 Выбор метода визуализации должен быть максимально информативным для решения поставленной задачи, выводы - убедительны и основаны на результатах визуализации.
 
-:arrow_up:[к оглавлению](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+:arrow_up:[к оглавлению](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Краткая информация о данных
 
@@ -51,17 +51,30 @@
 
 Для визуализации в проекте преимущественно использованы plotly.express и seaborn
 
-:arrow_up:[к оглавлению](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+:arrow_up:[к оглавлению](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Этапы работы над проектом
 
 * На первом этапе преобразуем данные DataFrame в удобный формат и создадим несколько "удобных" признаков
 
+
 * На втором этапе проводились выбор метода визуализации, его реализация и оценка результата в соответствии с поставлененными задачами: 
 
 1. Определить соотношение ушедших и лояльных клиентов.
+
+'''
+exited_df = client_df['Exited_type'].value_counts()
+
+fig = px.pie(data_frame=exited_df, 
+             values=exited_df.values, 
+             names=exited_df.index, 
+             title='Соотношение ушедших и лояльных клиентов')
+
+fig.show()
+'''
 2. Оценить распределение баланса пользователей, у которых на счету больше 2 500 долларов.
+
 3. Оценить расределение баланса клиента в разрезе признака оттока. 
 4. Оценить расределение возраста клиентов в разрезе признака оттока.
 5. Определить взаимосвязь кредитного рейтинга клиента и его предполагаемой зарплаты.
@@ -72,14 +85,16 @@
 10. Оценить степень оттока клиентов по уровню их кредитного рейтинга
 
 
-:arrow_up:[к оглавлению](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+:arrow_up:[к оглавлению](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Результат
+1 этап. Провели преобразование данных и импорт необходимых библиотек
 
-Для решения поставленных задач реализовано 16 графиков различного типа (круговые, столбчатые, иерархические диаграммы, гистограммы, "коробки с усами", тепловые карты, тепловая картограмма)
+2 этап. Для решения поставленных задач реализовано 16 графиков различного типа (круговые, столбчатые, иерархические диаграммы, гистограммы, "коробки с усами", тепловые карты, тепловая картограмма)[коды](https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/clients_of_bank_HW.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+
+:arrow_up:[к оглавлению](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Выводы
 1.
@@ -137,4 +152,4 @@ Cреди ушедших клиентов большинство люди ста
 
 Наибольший отток наблюдается среди клиентов с минимальным кредитным рейтингом ('Very_Poor', брали и возвращали мало кредитов), и длительностью пользования услугами банка менее 1 года и 10 лет.Если не учитывать клиентов с нулевым балансом, то среди клиентов с отличным ("Exelent")кредитным рейтингом и длительностью пользования услугами банка до года, 6 лет и более 9 лет также наблюдается достаточно высокий отток.
 
-:arrow_up:[к оглавлению](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+:arrow_up:[к оглавлению](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
