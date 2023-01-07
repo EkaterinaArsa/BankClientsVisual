@@ -116,24 +116,24 @@ Cреди ушедших клиентов большинство люди ста
 Среди клиентов банка женщин меньше, чем мужчин, но они чаще становятся нелояльными клиентам, в среднем на 9%. Следует отметить, что среди ушедших клиентов женщин в 1.5 раза больше чем мужчин.
 
 7.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%207.1.png> </center>
+<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%207.1.png> </center>
 
 Количество ушедших клиентов обратно пропорционально количеству услуг приобретенных клиентом у банка. Самое большое количество ушедших клиентов воспользовались только одним продуктом банка. Довольно печальная картина с клиентами, которые воспользовались 3 и 4 продуктами, там доля ушедших клиентов намного превышает лояльных, а с 4-мя продуктами так вообще составляет 100%.
 
 8.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%208.1.png> </center>
+<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%208.1.png> </center>
 
 Среди неактивных клиентов, чаще встречаются нелояльные (ушедшие), чем среди активных. Следовательно, для уменьшения оттока, необходимо  повышать активность клиентов.
 
 9.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%209.1.png> </center>
+<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%209.1.png> </center>
 
 Высокого отток клиентов наблюдается во Франции и Германии. С учетом ранее полученных данных, для вывода о вероятных причинах  необходимо уточнить возрастной и половой состав клиентской базы в данных странах, степень их активности и количество приобретенных ими услуг. И, в тоже время, возможны причины, данных о которых нам не предоставленно (политическая и экономическая ситуация в стране), поэтому хорошо бы увидеть картину по данным страннам в других банках.
 
 10.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%2010.1.png> </center>
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%2010.2.png> </center>
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%2010.3.png> </center>
+<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%2010.1.png> </center>
+<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%2010.2.png> </center>
+<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%2010.3.png> </center>
 
 Наибольший отток наблюдается среди клиентов с минимальным кредитным рейтингом ('Very_Poor', брали и возвращали мало кредитов), и длительностью пользования услугами банка менее 1 года и 10 лет.Если не учитывать клиентов с нулевым балансом, то среди клиентов с отличным ("Exelent")кредитным рейтингом и длительностью пользования услугами банка до года, 6 лет и более 9 лет также наблюдается достаточно высокий отток.
 
