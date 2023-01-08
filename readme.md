@@ -86,55 +86,30 @@
     - модули  plotly.express и plotly.offline
 * seaborn Version: 0.12.1
 
-<strong>2 этап. Для решения поставленных задач реализовано 16 графиков различного типа (круговые, столбчатые, иерархические диаграммы, гистограммы, "коробки с усами", тепловые карты, тепловая картограмма)</strong> [код](https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/clients_of_bank_HW.ipynb)
+<strong>2 этап. Для решения поставленных задач реализовано 16 графиков различного типа (круговые, столбчатые, иерархические диаграммы, гистограммы, "коробки с усами", тепловые карты, тепловая картограмма)</strong> [Ссылка на код в JupiterNotebook в браузере со всеми графиками](https://nbviewer.org/github/EkaterinaArsa/BankClientsVisual/blob/master/clients_of_bank_HW.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/EkaterinaArsa/BankClientsVisual#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Выводы
-1.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B01.png> </center>
 
 - Количество ушедших клиентов чуть более 20%.
 
-2.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%202.1.png> </center>
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%202.2.png> </center>
-
 - Распределение баланса клиентов похоже на нормальное. Сумма вклада среди клиентов (со вкладом более 2500 долларов) преимущественно в пределах 100000-140000 долларов.  Среднее занчение составляет около 120000 (медиана=119839). Максимальный вклад составил порядка 251000 долларов
-3.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%203.1.png> </center>
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%203.2.png> </center>
+
 - Мы видим большое смещение лояльных клиентов к нулю, это вызвано большим количеством клиентов с нулевым балансом. Стоит отдельно рассмотреть клиентов с нулевым балансом. Также, судя по разбросу значений баланса и уровню медианы, среди ушедших клиентов уровень баланса был выше. В тоже время, данные гистограммы подтверждают превалирование среди лояльных клиентов лиц с балансом до 10000. Среди ушедших клиентов данная группа также самая большая. Следовательно нельзя однозначно сказать о лучших условиях по небольшим вкладам.
 
-4.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%204.1.png> </center>
 - Среди ушедших клиентов большинство люди старше 40 лет (38-51 год, медиана = 45), среди лояльных большинство - лица молодого возраста(30-40 лет, медиана - 36). В группе лояльных клиентов наблюдаются потенциальные выбросы среди лиц - старше 56 лет. Следовательно, для уменьшения оттока клиентов банку необходимо сконцентрировать внимание на лицах среднего и старшего возраста. 
 
-5.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%205.1.png> </center>
 - Не отмечается прямой зависимости кредитного рейтинга клиента и его предполагаемой зарплаты. Зависимости кредитного рейтинга клиента от степени его лояльности не наблюдается. Следует отметить, что только у ушедших клиентов есть рейтинг ниже 400. 
 
-6.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%206.1.png> </center>
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%206.2.png> </center>
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%206.3.png> </center>
 - Среди клиентов банка женщин меньше, чем мужчин, но они чаще становятся нелояльными клиентам, в среднем на 9%. Следует отметить, что среди ушедших клиентов женщин в 1.5 раза больше чем мужчин. 
 
-7.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%207.1.png> </center>
 - Количество ушедших клиентов обратно пропорционально количеству услуг приобретенных клиентом у банка. Самое большое количество ушедших клиентов воспользовались только одним продуктом банка. Довольно печальная картина с клиентами, которые воспользовались 3 и 4 продуктами, там доля ушедших клиентов намного превышает лояльных, а с 4-мя продуктами так вообще составляет 100%. 
 
-8.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%208.1.png> </center>
 - Среди неактивных клиентов, чаще встречаются нелояльные (ушедшие), чем среди активных. Следовательно, для уменьшения оттока, необходимо  повышать активность клиентов.
 
-9.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%209.1.png> </center>
 - С учетом ранее полученных данных, для вывода о вероятных причинах высокого оттока клиентов во Франции и Германии необходимо уточнить возрастной и половой состав клиентской базы в данных странах, степень их активности и количество приобретенных ими услуг. И, в тоже время, возможны причины данных о которых нам не предоставленно (политическая и экономическая ситуация в стране), поэтому хорошо бы увидеть картину по данным страннам в других банках. 
 
-10.
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%2010.1.png> </center>
-<center> <img src=https://github.com/EkaterinaArsa/BankClientsVisual/blob/master/pictures/%D0%B4%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%2010.2.png> </center>
 - Наибольший отток наблюдается среди клиентов с минимальным кредитным рейтингом ('Very_Poor', брали и возвращали мало кредитов), и длительностью пользования услугами банка менее 1 года и 10 лет. Если не учитывать клиентов с нулевым балансом, то среди клиентов с отличным ("Exelent")кредитным рейтингом и длительностью пользования услугами банка до года, 6 лет и более 9 лет также наблюдается достаточно высокий отток.
 
 Таким образом: 
